@@ -26,7 +26,6 @@ let maxargs statement =
     | PrintStm exps -> max (List.length exps) (List.fold_left aux2 m1 exps) in
   aux1 0 statement
 
-
 let prog = 
  CompoundStm(AssignStm("a",OpExp(NumExp 5, Plus, NumExp 3)),
   CompoundStm(AssignStm("b",

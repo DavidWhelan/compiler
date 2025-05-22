@@ -1,0 +1,11 @@
+(lang dune 3.18)
+(name ocaml-index)
+(version 5.4.1-503)
+(sections
+ (lib /Users/david.whelan/Desktop/compiler/_opam/lib/ocaml-index)
+ (bin /Users/david.whelan/Desktop/compiler/_opam/bin)
+ (doc /Users/david.whelan/Desktop/compiler/_opam/doc/ocaml-index))
+(files
+ (lib (META dune-package opam))
+ (bin (ocaml-index))
+ (doc (CHANGES.md LICENSE README.md)))

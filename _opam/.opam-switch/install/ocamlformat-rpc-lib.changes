@@ -1,0 +1,50 @@
+opam-version: "2.0"
+added: [
+  "doc/ocamlformat-rpc-lib" {"D"}
+  "doc/ocamlformat-rpc-lib/CHANGES.md" {"F:S87825T1747934735.89"}
+  "doc/ocamlformat-rpc-lib/LICENSE" {"F:S1114T1747934735.89"}
+  "doc/ocamlformat-rpc-lib/README.md" {"F:S4328T1747934735.89"}
+  "lib/ocamlformat-rpc-lib" {"D"}
+  "lib/ocamlformat-rpc-lib/IO.ml" {"F:S1896T1747934735.73"}
+  "lib/ocamlformat-rpc-lib/META" {"F:S226T1747934735.73"}
+  "lib/ocamlformat-rpc-lib/dune-package" {"F:S2038T1747934735.73"}
+  "lib/ocamlformat-rpc-lib/ocamlformat_rpc_lib.a" {"F:S51080T1747934735.74"}
+  "lib/ocamlformat-rpc-lib/ocamlformat_rpc_lib.cma"
+    {"F:S64937T1747934735.74"}
+  "lib/ocamlformat-rpc-lib/ocamlformat_rpc_lib.cmi" {"F:S4159T1747934735.74"}
+  "lib/ocamlformat-rpc-lib/ocamlformat_rpc_lib.cmt"
+    {"F:S54987T1747934735.74"}
+  "lib/ocamlformat-rpc-lib/ocamlformat_rpc_lib.cmti"
+    {"F:S27056T1747934735.74"}
+  "lib/ocamlformat-rpc-lib/ocamlformat_rpc_lib.cmx" {"F:S2290T1747934735.74"}
+  "lib/ocamlformat-rpc-lib/ocamlformat_rpc_lib.cmxa"
+    {"F:S1603T1747934735.74"}
+  "lib/ocamlformat-rpc-lib/ocamlformat_rpc_lib.cmxs"
+    {"F:S79080T1747934735.89"}
+  "lib/ocamlformat-rpc-lib/ocamlformat_rpc_lib.ml" {"F:S4848T1747934735.74"}
+  "lib/ocamlformat-rpc-lib/ocamlformat_rpc_lib.mli" {"F:S4582T1747934735.74"}
+  "lib/ocamlformat-rpc-lib/ocamlformat_rpc_lib__.cmi"
+    {"F:S379T1747934735.74"}
+  "lib/ocamlformat-rpc-lib/ocamlformat_rpc_lib__.cmt"
+    {"F:S3565T1747934735.75"}
+  "lib/ocamlformat-rpc-lib/ocamlformat_rpc_lib__.cmx"
+    {"F:S173T1747934735.75"}
+  "lib/ocamlformat-rpc-lib/ocamlformat_rpc_lib__.ml" {"F:S198T1747934735.75"}
+  "lib/ocamlformat-rpc-lib/ocamlformat_rpc_lib__IO.cmi"
+    {"F:S1204T1747934735.75"}
+  "lib/ocamlformat-rpc-lib/ocamlformat_rpc_lib__IO.cmt"
+    {"F:S10176T1747934735.75"}
+  "lib/ocamlformat-rpc-lib/ocamlformat_rpc_lib__IO.cmx"
+    {"F:S391T1747934735.75"}
+  "lib/ocamlformat-rpc-lib/ocamlformat_rpc_lib__Protocol.cmi"
+    {"F:S2916T1747934735.75"}
+  "lib/ocamlformat-rpc-lib/ocamlformat_rpc_lib__Protocol.cmt"
+    {"F:S53884T1747934735.75"}
+  "lib/ocamlformat-rpc-lib/ocamlformat_rpc_lib__Protocol.cmti"
+    {"F:S15396T1747934735.76"}
+  "lib/ocamlformat-rpc-lib/ocamlformat_rpc_lib__Protocol.cmx"
+    {"F:S1253T1747934735.76"}
+  "lib/ocamlformat-rpc-lib/opam" {"F:S1094T1747934735.76"}
+  "lib/ocamlformat-rpc-lib/protocol.ml" {"F:S4821T1747934735.88"}
+  "lib/ocamlformat-rpc-lib/protocol.mli" {"F:S1878T1747934735.88"}
+]

@@ -1,0 +1,39 @@
+opam-version: "2.0"
+added: [
+  "doc/stdio" {"D"}
+  "doc/stdio/CHANGES.md" {"F:S429T1747934782.95"}
+  "doc/stdio/LICENSE.md" {"F:S1126T1747934782.95"}
+  "doc/stdio/README.md" {"F:S316T1747934782.95"}
+  "doc/stdio/odoc-pages" {"D"}
+  "doc/stdio/odoc-pages/index.mld" {"F:S239T1747934782.95"}
+  "lib/stdio" {"D"}
+  "lib/stdio/META" {"F:S170T1747934782.92"}
+  "lib/stdio/dune-package" {"F:S1649T1747934782.93"}
+  "lib/stdio/in_channel.ml" {"F:S2539T1747934782.93"}
+  "lib/stdio/in_channel.mli" {"F:S4522T1747934782.93"}
+  "lib/stdio/opam" {"F:S781T1747934782.93"}
+  "lib/stdio/out_channel.ml" {"F:S2616T1747934782.93"}
+  "lib/stdio/out_channel.mli" {"F:S4951T1747934782.93"}
+  "lib/stdio/stdio.a" {"F:S41480T1747934782.93"}
+  "lib/stdio/stdio.cma" {"F:S59605T1747934782.93"}
+  "lib/stdio/stdio.cmi" {"F:S5890T1747934782.93"}
+  "lib/stdio/stdio.cmt" {"F:S12058T1747934782.93"}
+  "lib/stdio/stdio.cmti" {"F:S18719T1747934782.93"}
+  "lib/stdio/stdio.cmx" {"F:S5887T1747934782.93"}
+  "lib/stdio/stdio.cmxa" {"F:S14332T1747934782.93"}
+  "lib/stdio/stdio.cmxs" {"F:S95928T1747934782.95"}
+  "lib/stdio/stdio.ml" {"F:S441T1747934782.93"}
+  "lib/stdio/stdio.mli" {"F:S852T1747934782.94"}
+  "lib/stdio/stdio__.cmi" {"F:S491T1747934782.94"}
+  "lib/stdio/stdio__.cmt" {"F:S3831T1747934782.94"}
+  "lib/stdio/stdio__.cmx" {"F:S162T1747934782.94"}
+  "lib/stdio/stdio__.ml" {"F:S245T1747934782.94"}
+  "lib/stdio/stdio__In_channel.cmi" {"F:S8592T1747934782.94"}
+  "lib/stdio/stdio__In_channel.cmt" {"F:S44521T1747934782.94"}
+  "lib/stdio/stdio__In_channel.cmti" {"F:S36927T1747934782.94"}
+  "lib/stdio/stdio__In_channel.cmx" {"F:S7263T1747934782.94"}
+  "lib/stdio/stdio__Out_channel.cmi" {"F:S10238T1747934782.94"}
+  "lib/stdio/stdio__Out_channel.cmt" {"F:S44227T1747934782.95"}
+  "lib/stdio/stdio__Out_channel.cmti" {"F:S44081T1747934782.95"}
+  "lib/stdio/stdio__Out_channel.cmx" {"F:S8802T1747934782.95"}
+]

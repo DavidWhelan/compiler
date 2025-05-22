@@ -1,0 +1,12 @@
+opam-version: "2.0"
+added: [
+  "bin/ocaml-index" {"F:S19423072T1747934790.4"}
+  "doc/ocaml-index" {"D"}
+  "doc/ocaml-index/CHANGES.md" {"F:S57640T1747934790.4"}
+  "doc/ocaml-index/LICENSE" {"F:S1094T1747934790.4"}
+  "doc/ocaml-index/README.md" {"F:S16314T1747934790.41"}
+  "lib/ocaml-index" {"D"}
+  "lib/ocaml-index/META" {"F:S0T1747934790.4"}
+  "lib/ocaml-index/dune-package" {"F:S352T1747934790.4"}
+  "lib/ocaml-index/opam" {"F:S873T1747934790.4"}
+]
